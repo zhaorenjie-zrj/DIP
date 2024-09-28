@@ -12,7 +12,9 @@ This repository is  implementation of Assignment_01 of DIP.
 To install requirements:
 
 ```setup
-python -m pip install -r requirements.txt
+python -m pip install numpy
+pip install gradio
+pip install opencv-python
 ```
 
 
