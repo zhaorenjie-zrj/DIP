@@ -14,7 +14,8 @@ python assign2_1.py
 ```
 
 ## Results
-()
+(https://github.com/zhaorenjie-zrj/DIP/blob/master/main/Assignments/assignment2/data_poission/assign2_1.mp4)
+目前只是支持同尺寸照片的poission混合
 
 
 ### 2. Pix2Pix implementation.
