@@ -12,8 +12,7 @@ To run data_possin, run:
 python assign2_1.py
 ```
 ```
-
-## Results
+ Results
 (https://github.com/zhaorenjie-zrj/DIP/blob/master/main/Assignments/assignment2/data_poission/assign2_1.mp4)
 目前只是支持同尺寸照片的poission混合
 
