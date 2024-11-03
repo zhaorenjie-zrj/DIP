@@ -3,27 +3,26 @@
 ### In this assignment, you will implement traditional DIP (Poisson Image Editing) and deep learning-based DIP (Pix2Pix) with PyTorch.
 
 ### 1. Implement Poisson Image Editing with PyTorch.
-Fill the [Polygon to Mask function](run_blending_gradio.py#L95) and the [Laplacian Distance Computation](run_blending_gradio.py#L115) of 'run_blending_gradio.py'.
 
 ## Running
 
-To run basic transformation, run:
+To run data_possin, run:
 
 ```basic
-python run_global_transform.py
+python assign2_1.py
 ```
-
-To run point guided transformation, run:
-
-```point
-python run_point_transform.py
 ```
 
 ## Results (need add more result images)
-### Basic Transformation
-(https://github.com/zhaorenjie-zrj/DIP/blob/master/main/Assignments/01_ImageWarping/global_transform.gif)
+### data_poission
+()
 
 
 ### 2. Pix2Pix implementation.
-See [Pix2Pix subfolder](Pix2Pix/).
-
+To pix2, run:
+```bash
+bash download_facades_dataset.sh
+python train.py
+```
+## Results
+(https://github.com/zhaorenjie-zrj/DIP/blob/master/main/Assignments/assignment2/pix2pix/pix2.mp4)
