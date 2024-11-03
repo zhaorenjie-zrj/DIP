@@ -13,8 +13,7 @@ python assign2_1.py
 ```
 ```
 
-## Results (need add more result images)
-### data_poission
+## Results
 ()
 
 
