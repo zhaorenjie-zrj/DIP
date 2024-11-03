@@ -6,18 +6,21 @@
 
 ## Running
 
-To run data_possin, run:
+## Result
+(https://github.com/zhaorenjie-zrj/DIP/blob/master/main/Assignments/assignment2/data_poission/assign2_1.mp4)
+目前只是支持同尺寸照片的poission混合
+To run data_possin, run
 
 ```basic
 python assign2_1.py
 ```
 ```
- Results
+##Results
 (https://github.com/zhaorenjie-zrj/DIP/blob/master/main/Assignments/assignment2/data_poission/assign2_1.mp4)
 目前只是支持同尺寸照片的poission混合
 
 
-### 2. Pix2Pix implementation.
+## 2. Pix2Pix implementation.
 To pix2, run:
 ```bash
 bash download_facades_dataset.sh
