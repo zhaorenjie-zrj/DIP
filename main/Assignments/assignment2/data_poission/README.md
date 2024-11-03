@@ -15,7 +15,7 @@ python assign2_1.py
 
 ## Results (need add more result images)
 ### data_poission
-([https://github.com/zhaorenjie-zrj/DIP/blob/master/main/Assignments/01_ImageWarping/global_transform.gif](https://github.com/zhaorenjie-zrj/DIP/blob/master/main/Assignments/assignment2/data_poission/assign2_1.py))
+()
 
 
 ### 2. Pix2Pix implementation.
