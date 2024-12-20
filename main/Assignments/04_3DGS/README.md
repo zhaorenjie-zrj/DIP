@@ -18,6 +18,7 @@
 <img src="3DGS.gif" alt="alt text" width="800">
 
 可以看出，渲染从一开始的只有一个个点云到最后的较为清晰
+
 2.**运行结果**
 
 <img src="debug_rendering.gif" alt="alt text" width="800">
